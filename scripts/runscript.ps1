@@ -1,0 +1,1 @@
+qverilog -f filelist.f -gui +acc=mnprt
